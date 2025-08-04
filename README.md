@@ -34,7 +34,7 @@ A research agent built with LangGraph that incorporates human feedback into the 
 
 3. **Activate environment**
    ```bash
-   poetry shell
+   poetry env activate
    ```
 
 
